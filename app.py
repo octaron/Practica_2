@@ -1,3 +1,2 @@
 import pandas as pd
-
-x=55
+import numpy as np
